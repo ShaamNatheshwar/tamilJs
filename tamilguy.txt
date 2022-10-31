@@ -2,6 +2,8 @@ video 2
 1) parent of DOM
 document
 
+
+
 2) to get the title of the webpage
 document.title
 
